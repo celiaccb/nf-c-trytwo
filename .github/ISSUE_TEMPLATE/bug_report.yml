@@ -6,9 +6,7 @@ body:
     attributes:
       value: |
         Before you post this issue, please check the documentation:
-
-        - [nf-core website: troubleshooting](https://nf-co.re/usage/troubleshooting)
-        - [nf-core/trytwo pipeline documentation](https://nf-co.re/trytwo/usage)
+        ---
 
   - type: textarea
     id: description
