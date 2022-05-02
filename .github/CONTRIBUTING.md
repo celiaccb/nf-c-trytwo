@@ -9,8 +9,6 @@ Please use the pre-filled template to save time.
 However, don't be put off by this template - other more general issues and suggestions are welcome!
 Contributions to the code are even more welcome ;)
 
-> If you need help using or modifying nf-core/trytwo then the best place to ask is on the nf-core Slack [#trytwo](https://nfcore.slack.com/channels/trytwo) channel ([join our Slack here](https://nf-co.re/join/slack)).
-
 ## Contribution workflow
 
 If you'd like to write some code for nf-core/trytwo, the standard workflow is as follows:
