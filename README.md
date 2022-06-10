@@ -6,6 +6,9 @@
 [![run with docker](https://img.shields.io/badge/run%20with-docker-0db7ed?labelColor=000000&logo=docker)](https://www.docker.com/)
 [![run with singularity](https://img.shields.io/badge/run%20with-singularity-1d355c.svg?labelColor=000000)](https://sylabs.io/docs/)
 
+**Please note that this repository is just an exercise for myself to learn how to make pipelines in nf-core**
+**All the files that are in this repository at the moment are part of the nf-core default DSL2 pipeline**
+
 ## Introduction
 
 <!-- TODO nf-core: Write a 1-2 sentence summary of what data the pipeline is for and what it does -->
